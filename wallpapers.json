@@ -1,0 +1,17 @@
+{
+  "categories": ["AMOLED", "Cyberpunk", "Nature"],
+  "wallpapers": [
+    {
+      "id": "1",
+      "title": "Neon City",
+      "category": "Cyberpunk",
+      "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers/1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Dark Galaxy",
+      "category": "AMOLED",
+      "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers/2.jpg"
+    }
+  ]
+}
