@@ -1,8 +1,16 @@
 {
   "categories": [
-    "nature", "anime" ,"armord"
+    "nature",
+    "anime",
+    "armord"
   ],
   "wallpapers": [
+    {
+      "id": "wp_005",
+      "title": "robot",
+      "category": "armord",
+      "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers@main/armord/1.jpg"
+    },
     {
       "id": "wp_001",
       "title": "Tree",
@@ -26,12 +34,6 @@
       "title": "Tree 1.2",
       "category": "nature",
       "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers@main/nature/tree_1_2_004.webp"
-    },
-    {
-      "id": "1 ",
-      "title": "robot",
-      "category": "armord",
-      "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers@main/armord/1.jpg"
     }
   ]
 }
