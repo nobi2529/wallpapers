@@ -1,17 +1,31 @@
 {
-  "categories": ["AMOLED", "Cyberpunk", "Anime", "Nature"],
+  "categories": [
+    "nature"
+  ],
   "wallpapers": [
     {
-      "id": "1",
-      "title": "Neon City",
-      "category": "Cyberpunk",
-      "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers/1.jpg"
+      "id": "wp_001",
+      "title": "Tree",
+      "category": "nature",
+      "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers@main/nature/tree_001.webp"
     },
     {
-      "id": "2",
-      "title": "Dark Galaxy",
-      "category": "AMOLED",
-      "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers/2.jpg"
+      "id": "wp_002",
+      "title": "Vally",
+      "category": "nature",
+      "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers@main/nature/vally_002.webp"
+    },
+    {
+      "id": "wp_003",
+      "title": "Trees",
+      "category": "nature",
+      "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers@main/nature/trees_003.webp"
+    },
+    {
+      "id": "wp_004",
+      "title": "Tree 1.2",
+      "category": "nature",
+      "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers@main/nature/tree_1_2_004.webp"
     }
   ]
 }
