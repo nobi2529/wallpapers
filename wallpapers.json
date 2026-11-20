@@ -1,6 +1,6 @@
 {
   "categories": [
-    "nature"
+    "nature", "anime" ,"armord"
   ],
   "wallpapers": [
     {
@@ -26,6 +26,12 @@
       "title": "Tree 1.2",
       "category": "nature",
       "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers@main/nature/tree_1_2_004.webp"
+    },
+    {
+      "id": "1 ",
+      "title": "robot",
+      "category": "armord",
+      "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers@main/nature/1.jpg"
     }
   ]
 }
