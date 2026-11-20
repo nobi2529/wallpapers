@@ -6,14 +6,14 @@
   ],
   "wallpapers": [
     {
-      "id": "wp_005",
-      "title": "robot",
+      "id": "1",
+      "title": "Red robot",
       "category": "armord",
       "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers@main/1.jpg"
     },
     {
       "id": "wp_004",
-      "title": "Tree 1.2",
+      "title": "Trees ",
       "category": "nature",
       "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers@main/004.webp"
     },
@@ -31,7 +31,7 @@
     },
     {
       "id": "wp_001",
-      "title": "Tree",
+      "title": "Trees",
       "category": "nature",
       "url": "https://cdn.jsdelivr.net/gh/nobi2529/wallpapers@main/001.webp"
     }
